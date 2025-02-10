@@ -3,17 +3,17 @@ Advanced AI-Powered Detection for Text, Image, Video & Audio DeepFakes
 
 
 🚀 Overview
-DeepFake content is rapidly evolving, posing serious threats to security, misinformation, and digital integrity. The DeepFake Detection System is an AI-driven, multi-modal detection framework that identifies deepfake content across text, image, video, and audio using state-of-the-art pre-trained models.
+DeepFake content is fast-evolving and poses a serious threat to security, misinformation, and digital integrity. The DeepFake Detection System is an AI-based multi-modal detection framework that identifies deepfake content from texts, images, videos, and audios by utilizing cutting-edge pre-trained models.
 
 🔍 Key Features:
 
-✅ Detects AI-generated text, images, videos, and audio
+✅ Detects AI-generated texts, images, videos, and audios
 
-✅ Uses pre-trained models—no need for manual training
+✅ Deploys prior trained models-therefore no manual training becomes necessary
 
-✅ API integration for seamless third-party usage
+✅ API integration for quick third-party consumption
 
-✅ Web-based & browser extension for real-time detection
+✅ Web-based and browser extension for real-time detection
 
 ✅ Highly optimized for speed, accuracy, and efficiency
 
